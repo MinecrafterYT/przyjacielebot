@@ -1,0 +1,2 @@
+# przyjacielebot
+Bot dla IPlacki
